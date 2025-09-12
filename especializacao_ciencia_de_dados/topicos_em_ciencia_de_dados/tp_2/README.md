@@ -12,6 +12,6 @@ Abaixo a estrutura das pastas e as informações em cada uma delas.
 │    └── 📄 apresentacao_yago_aquino_tp_2.pdf     # Apresentação do pipeline em PDF
 ├── 📁 notebooks
 │    ├── 📄 TP_02_Ciberseguranca_EDA.ipynb        # Notebook com coleta e EDA 
-│    └── 📄 TP_02_Ciberseguranca_Modelagem.ipynb  # Notebook com engenahria de features, modelagem, avaliação e visualziação dos resultados
+│    └── 📄 TP_02_Ciberseguranca_Modelagem.ipynb  # Notebook com engenharia de features, modelagem, avaliação e visualziação dos resultados
 └── 📄 README.md
 ```
